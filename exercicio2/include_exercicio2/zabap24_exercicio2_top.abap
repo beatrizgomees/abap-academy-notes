@@ -1,0 +1,1 @@
+DATA resultado TYPE char50.

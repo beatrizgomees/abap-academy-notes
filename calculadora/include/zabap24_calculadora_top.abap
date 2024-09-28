@@ -1,0 +1,1 @@
+DATA v_resultado TYPE i.

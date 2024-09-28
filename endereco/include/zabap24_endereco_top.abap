@@ -1,0 +1,1 @@
+DATA v_endereco_completo TYPE string.

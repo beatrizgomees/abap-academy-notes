@@ -1,0 +1,19 @@
+SELECTION-SCREEN BEGIN OF BLOCK nomebox WITH FRAME TITLE text-001.
+
+PARAMETERS p_nome TYPE string.
+PARAMETERS p_idade TYPE i.
+
+SELECTION-SCREEN END OF BLOCK nomebox.
+
+
+SELECTION-SCREEN BEGIN OF BLOCK enderecobox WITH FRAME TITLE text-002.
+
+PARAMETERS p_rua       TYPE string.
+PARAMETERS p_numero    TYPE n LENGTH 4.
+PARAMETERS p_bairro    TYPE string.
+PARAMETERS p_compl     TYPE string.
+PARAMETERS p_cidade    TYPE char50.
+PARAMETERS p_cep       TYPE char50.
+PARAMETERS p_estado    TYPE string.
+
+SELECTION-SCREEN END OF BLOCK enderecobox.

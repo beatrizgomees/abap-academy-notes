@@ -1,0 +1,1 @@
+DATA resultado type f.
